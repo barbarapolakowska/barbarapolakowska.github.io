@@ -13,7 +13,7 @@ img {
   max-width: 100%;
 }
 nav {
-  background-image: url(../img/tlo.png);
+  background-color: #c8bfe7;
   position: fixed;
   z-index: 1;
   width: 100%;
@@ -49,7 +49,7 @@ header {
     top: 70px;
     position: relative;
     margin-bottom: 220px;
-    background-color: #c8bfe7;
+    background-image: url(../img/tlo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -145px;
