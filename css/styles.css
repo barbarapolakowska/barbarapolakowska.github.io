@@ -49,7 +49,7 @@ header {
     top: 70px;
     position: relative;
     margin-bottom: 220px;
-    background-image: url(../img/nonamebackground.png);
+    background-image: url('../img/nonamebackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -145px;
