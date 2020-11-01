@@ -44,7 +44,7 @@ nav ul {
   margin: 0 auto;
   text-align: center;
   padding: 30px;
-  font-weight: bold;
+  font-weight: lighter;
 }
 header {
     top: 70px;
@@ -72,6 +72,7 @@ h1, h2 {
 ul li {
   list-style: none;
   margin: 10px 0;
+  font-size: 18px;
 }
 
 p {
